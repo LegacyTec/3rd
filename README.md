@@ -3,6 +3,8 @@
 
 ## 🦾 Nome do Grupo: **LegacyTec** 
 
+<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/3f2b49f7-d973-4ae5-a97d-9ad8bb86ce10" />
+
 
 # Plataforma Interna de Mapeamento de Competências para Gestão Estratégica de Talentos 
 
@@ -23,11 +25,13 @@
 
 | FUNÇÃO | NOME | REDES SOCIAIS | FOTO |
 | --- | --- | --- | --- |
-| Product Owner      | Cleber Kirch        | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cleberkirch/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/cleberkirch86/) |<p align="center"><img src= "https://github.com/user-attachments/assets/9683e19f-7d59-4273-8a08-8cbddadcf2c8" alt="Cleber" style="width:60px;height:60px;">
-| Scrum Master       | Ed Wilson       | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com) |<p align="center"><img src= "https://github.com/user-attachments/assets/32812572-8636-43e6-bc31-88844c1fe8c3" alt=" Ed " style="width:60px;height:60px;">
-| Developer    | Pedro H. Mattos         | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]() |<p align="center"><img src= "https://github.com/user-attachments/assets/8108bdb8-c9d3-473e-9800-da1286cc91e5" alt="Pedro" style="width:60px;height:60px;">
+| Scrum Master      | Cleber Kirch        | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cleberkirch/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/cleberkirch86/) |<p align="center"><img src= "https://github.com/user-attachments/assets/9683e19f-7d59-4273-8a08-8cbddadcf2c8" alt="Cleber" style="width:60px;height:60px;">
+| Developer        | Ed Wilson       | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com) |<p align="center"><img src= "https://github.com/user-attachments/assets/32812572-8636-43e6-bc31-88844c1fe8c3" alt=" Ed " style="width:60px;height:60px;">
+| Product Owner    | Pedro H. Mattos         | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]() |<p align="center"><img src= "https://github.com/user-attachments/assets/8108bdb8-c9d3-473e-9800-da1286cc91e5" alt="Pedro" style="width:60px;height:60px;">
 | Developer    | Kauã R.                 | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kauarabelo) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Kauarabelo) |<p align="center"><img src= "https://github.com/user-attachments/assets/38ad8dc3-498a-42d3-ab59-3a2ca8e4c55d" alt="Kauã" style="width:60px;height:60px;">
 | Developer    | Aguinaldo Junior        | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aguinaldo-cardoso-427270200) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/aguinaldojunior31) |<p align="center"><img src= "https://github.com/user-attachments/assets/29fe9cac-0ca1-410d-a42e-e8b6daf94640" alt="Aguinaldo" style="width:60px;height:60px;">
+| Developer    | Carlos Eduardo        | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-costa-13146697/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/carloscosta67) |<p align="center"><img src= "https://github.com/user-attachments/assets/9a215f48-d816-4f3d-87c9-f7f52b5d6f9a" alt="Carlos Eduardo" style="width:60px;height:60px;">
+
 
  ## :dart: Contextualização
 
@@ -79,6 +83,7 @@ supervisores para cada diretor.
 
 ## :bookmark: Tecnologias Utilizadas
 > * [Git/Github (Controle de versão)](https://github.com/)
-
+> * Git: [Instale o Git](https://git-scm.com/downloads) para controle de versão.
+> * JDK (Java Development Kit): [Instale o OpenJDK](https://adoptium.net/) versão 17 ou 21. Esta é a dependência para rodar o back-end.
 
 
