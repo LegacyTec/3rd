@@ -1,3 +1,74 @@
+# 🎓 3nd-Semester - FATEC SJC 🚀
+
+## 🦾 Nome do Grupo: **Legacy Tech** 
+
+# internal talent
+
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+
+
+<p align="center">
+    <a href="#-equipe">Equipe</a> |
+    <a href="#-contextualização">Contextualização</a> |
+    <a href="#-requisitos-funcionais-e-não-funcionais">Requisitos</a> |
+    <a href="#-product-backlog">Product Backlog</a> |
+    <a href="#-sprints">Sprints</a>
+</p>
+
+
+
+# Nossa Equipe :busts_in_silhouette:
+
+| FUNÇÃO | NOME | REDES SOCIAIS | FOTO |
+| --- | --- | --- | --- |
+| Product Owner    | Pedro H. Mattos         | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]() |<p align="center"><img src= "https://github.com/user-attachments/assets/8108bdb8-c9d3-473e-9800-da1286cc91e5" alt="Pedro" style="width:60px;height:60px;">
+| Scrum Master     | Cleber Kirch        | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cleberkirch/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/cleberkirch86/) |<p align="center"><img src= "https://github.com/user-attachments/assets/9683e19f-7d59-4273-8a08-8cbddadcf2c8" alt="Cleber" style="width:60px;height:60px;">
+|  Developer      | Ed Wilson       | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com) |<p align="center"><img src= "https://github.com/user-attachments/assets/32812572-8636-43e6-bc31-88844c1fe8c3" alt=" Ed " style="width:60px;height:60px;">
+| Developer    | Aguinaldo Junior        | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aguinaldo-cardoso-427270200) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/aguinaldojunior31) |<p align="center"><img src= "https://github.com/user-attachments/assets/29fe9cac-0ca1-410d-a42e-e8b6daf94640" alt="Aguinaldo" style="width:60px;height:60px;">
+
+<h4 align="center"> 
+	:construction:  Projeto em construção  :construction:
+</h4>
+
+ ## :dart: Contextualização
+A dificuldade em mapear talentos internos em empresas em crescimento leva à perda de oportunidades, à desmotivação de colaboradores e a contratações externas desnecessárias. Sua solução de um "LinkedIn interno" resolve essa fragmentação de informações, tornando as habilidades da equipe um ativo estratégico e acessível para a gestão.
+
+# :hammer: Requisitos Funcionais
+- `Funcionalidade 1`: Desenvolver uma interface de administrador, com cadastro de usuários;
+- `Funcionalidade 2`: Desenvolver um dashboard com perfis do time;
+- `Funcionalidade 3`: Permitir haver avaliação de gestor e do próprio funcionário;
+
+# :hammer: Requisitos Não Funcionais
+
+- Guia de instalação, Github e hospedagem
+- Manual do usuário
+- Modelagem de Banco de Dados
+- Desejável que o sistema seja acessível online;
+
+
+## :date: User Stories
+
+
+
+## :calendar:  Sprints
+
+
+| **SPRINTS** | **PERÍODOS**         | **DESCRIÇÃO**                                                      |
+|-------------|----------------------|--------------------------------------------------------------------|
+| Sprint 1    | 09/09/2025 à 28/09/2025 | Levantamento de requisitos, modelagem inicial, prototipagem, telas de cadastro      |
+| Sprint 2    | 06/10/2025 à 26/10/2025 | Funções avançadas e checagem de conflitos|
+| Sprint 3    | 03/11/2025 à 23/11/2025 | Sugestão de Alocação, Finalização, testes e elaboração de documentação.                  |
+
+
+
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``Java 8``
+- ``InteliJ IDEA``
+
+
+
 Planejamento da Primeira Sprint - Sistema de Gestão de Competências
 📋 Visão Geral do Projeto
 Sistema web para gestão e mapeamento de competências internas que permite às lideranças visualizar, analisar e identificar talentos baseado em competências técnicas e comportamentais.
